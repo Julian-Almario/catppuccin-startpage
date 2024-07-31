@@ -102,15 +102,15 @@ const default_config = {
       ],
     },
     {
-      name: "dev",
+      name: "medicine",
       background_url: "src/img/banners/cbg-8.gif",
       categories: [
         {
           name: "resources",
           links: [
             {
-              name: "github",
-              url: "https://github.com",
+              name: "Biblioteca Universidad",
+              url: "https://biblioteca.uniremington.edu.co/index.php/login",
               icon: "brand-github",
               icon_color: "#a6e3a1",
             },
