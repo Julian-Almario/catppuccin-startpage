@@ -102,7 +102,7 @@ const default_config = {
       ],
     },
     {
-      name: "medicine",
+      name: "med",
       background_url: "src/img/banners/cbg-8.gif",
       categories: [
         {
@@ -129,23 +129,23 @@ const default_config = {
           ],
         },
         {
-          name: "challenges",
+          name: "2024-2 Google Drive",
           links: [
             {
-              name: "kaggle",
-              url: "https://www.kaggle.com/volodymyrpivoshenko",
+              name: "Neurologia",
+              url: "https://drive.google.com/drive/folders/1Yp2Bgub0ovoXBjEuGdViI2zMtaUuINtD",
               icon: "brain",
               icon_color: "#a6e3a1",
             },
             {
-              name: "leetcode",
-              url: "https://leetcode.com",
+              name: "Cirugia",
+              url: "https://drive.google.com/drive/folders/1XBwv4UbQIFG9kYsmgYGKtLCaFdBmx9-b",
               icon: "code-plus",
               icon_color: "#fab387",
             },
             {
-              name: "stackoverflow",
-              url: "https://stackoverflow.com",
+              name: "Nefrologia",
+              url: "https://drive.google.com/drive/folders/1vsGzG720WtJ6eiqtjE9gSbYDGNZgzXsX",
               icon: "brand-stackoverflow",
               icon_color: "#f38ba8",
             },
