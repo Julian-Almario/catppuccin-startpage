@@ -159,7 +159,7 @@ const default_config = {
       ],
     },
     {
-      name: "Ingenieria",
+      name: "Inge",
       background_url: "src/img/banners/cbg-10.gif",
       categories: [
         {
