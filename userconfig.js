@@ -3,7 +3,7 @@ let saved_config = JSON.parse(localStorage.getItem("CONFIG"));
 const default_config = {
   overrideStorage: true,
   temperature: {
-    location: "London",
+    location: "Medellin",
     scale: "C",
   },
   clock: {
@@ -11,7 +11,7 @@ const default_config = {
     iconColor: "#f38ba8",
   },
   disabled: [],
-  fastlink: "https://app.raindrop.io",
+  fastlink: "https://calendar.google.com/calendar/u/0/r?pli=1",
   openLastVisitedTab: true,
   tabs: [
     {
@@ -22,8 +22,8 @@ const default_config = {
           name: "bookmarks",
           links: [
             {
-              name: "raindrop",
-              url: "https://app.raindrop.io",
+              name: "StartPage Config",
+              url: "https://github.com/Julian-Almario/catppuccin-startpage",
               icon: "droplet-bolt",
               icon_color: "#a6e3a1",
             },
@@ -85,12 +85,6 @@ const default_config = {
               icon: "eye-bolt",
               icon_color: "#89b4fa",
             },
-            {
-              name: "village",
-              url: "https://www.village.com.ua",
-              icon: "home-2",
-              icon_color: "#cba6f7",
-            },
           ],
         },
       ],
@@ -100,25 +94,13 @@ const default_config = {
       background_url: "src/img/banners/cbg-8.gif",
       categories: [
         {
-          name: "resources",
+          name: "Resources",
           links: [
             {
               name: "Biblioteca Universidad",
               url: "https://biblioteca.uniremington.edu.co/index.php/login",
               icon: "brand-github",
               icon_color: "#a6e3a1",
-            },
-            {
-              name: "neptune",
-              url: "https://ui.neptune.ai",
-              icon: "circle-triangle",
-              icon_color: "#fab387",
-            },
-            {
-              name: "wakatime",
-              url: "https://wakatime.com/dashboard",
-              icon: "24-hours",
-              icon_color: "#f38ba8",
             },
           ],
         },
@@ -146,29 +128,29 @@ const default_config = {
           ],
         },
         {
-          name: "blogs",
+          name: "Proximamente",
           links: [
             {
               name: "dou",
-              url: "https://dou.ua",
+              url: "",
               icon: "brand-prisma",
               icon_color: "#a6e3a1",
             },
             {
               name: "hackernews",
-              url: "https://news.ycombinator.com",
+              url: "",
               icon: "brand-redhat",
               icon_color: "#fab387",
             },
             {
               name: "uber research",
-              url: "https://eng.uber.com/category/articles",
+              url: "",
               icon: "brand-uber",
               icon_color: "#f38ba8",
             },
             {
               name: "google research",
-              url: "https://blog.research.google",
+              url: "",
               icon: "hexagon-letter-g",
               icon_color: "#89b4fa",
             },
@@ -177,7 +159,7 @@ const default_config = {
       ],
     },
     {
-      name: "chi ll",
+      name: "Ingenieria",
       background_url: "src/img/banners/cbg-10.gif",
       categories: [
         {
