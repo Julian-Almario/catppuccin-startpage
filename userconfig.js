@@ -160,10 +160,10 @@ const default_config = {
     },
     {
       name: "Inge",
-      background_url: "src/img/banners/cbg-10.gif",
+      background_url: "src/img/banners/cbg-3.gif",
       categories: [
         {
-          name: "social medias",
+          name: "Resources",
           links: [
             {
               name: "telegram",
@@ -186,7 +186,7 @@ const default_config = {
           ],
         },
         {
-          name: "games",
+          name: "Courses Learn",
           links: [
             {
               name: "GG",
@@ -215,7 +215,7 @@ const default_config = {
           ],
         },
         {
-          name: "video",
+          name: "proximamente",
           links: [
             {
               name: "anilist",
