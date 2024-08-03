@@ -28,45 +28,45 @@ const default_config = {
               icon_color: "#a6e3a1",
             },
             {
-              name: "musicForProgramming();",
-              url: "https://musicforprogramming.net/sixty",
-              icon: "binary-tree",
-              icon_color: "#fab387",
-            },
-          ],
-        },
-        {
-          name: "Search",
-          links: [
-            {
               name: "Google",
               url: "https://www.google.com/",
               icon: "brand-gmail",
               icon_color: "#a6e3a1",
             },
+          ],
+        },
+        {
+          name: "Courses",
+          links: [
             {
-              name: "Google Scholar",
-              url: "https://scholar.google.com/",
-              icon: "calendar-filled",
-              icon_color: "#fab387",
+              name: "Coursera",
+              url: "https://www.coursera.org",
+              icon: "brand-gmail",
+              icon_color: "#a6e3a1",
             },
             {
-              name: "Pudmed",
-              url: "https://pubmed.ncbi.nlm.nih.gov/",
-              icon: "table",
-              icon_color: "#f38ba8",
+              name: "Udemy",
+              url: "https://www.udemy.com",
+              icon: "brand-gmail",
+              icon_color: "#a6e3a1",
+            },
+            {
+              name: "Simplilearn",
+              url: "https://www.simplilearn.com/",
+              icon: "brand-gmail",
+              icon_color: "#a6e3a1",
+            },
+            {
+              name: "Khan Academy",
+              url: "https://es.khanacademy.org/",
+              icon: "brand-gmail",
+              icon_color: "#a6e3a1",
             },
           ],
         },
         {
           name: "Cloud computing",
           links: [
-            {
-              name: "Local Cloud",
-              url: "http://192.168.0.100:443/filebrowser/login",
-              icon: "news",
-              icon_color: "#a6e3a1",
-            },
             {
               name: "Google colab",
               url: "https://colab.research.google.com/",
@@ -102,6 +102,18 @@ const default_config = {
               icon: "brand-github",
               icon_color: "#a6e3a1",
             },
+            {
+              name: "Google Scholar",
+              url: "https://scholar.google.com/",
+              icon: "calendar-filled",
+              icon_color: "#fab387",
+            },
+            {
+              name: "Pudmed",
+              url: "https://pubmed.ncbi.nlm.nih.gov/",
+              icon: "table",
+              icon_color: "#f38ba8",
+            },
           ],
         },
         {
@@ -127,35 +139,6 @@ const default_config = {
             },
           ],
         },
-        {
-          name: "Proximamente",
-          links: [
-            {
-              name: "dou",
-              url: "",
-              icon: "brand-prisma",
-              icon_color: "#a6e3a1",
-            },
-            {
-              name: "hackernews",
-              url: "",
-              icon: "brand-redhat",
-              icon_color: "#fab387",
-            },
-            {
-              name: "uber research",
-              url: "",
-              icon: "brand-uber",
-              icon_color: "#f38ba8",
-            },
-            {
-              name: "google research",
-              url: "",
-              icon: "hexagon-letter-g",
-              icon_color: "#89b4fa",
-            },
-          ],
-        },
       ],
     },
     {
@@ -166,81 +149,23 @@ const default_config = {
           name: "Resources",
           links: [
             {
-              name: "telegram",
-              url: "https://web.telegram.org",
+              name: "Roadmap",
+              url: "https://roadmap.sh/",
               icon: "brand-telegram",
               icon_color: "#a6e3a1",
             },
-            {
-              name: "facebook",
-              url: "https://www.facebook.com",
-              icon: "brand-facebook",
-              icon_color: "#fab387",
-            },
-            {
-              name: "reddit",
-              url: "https://www.reddit.com/r/unixporn",
-              icon: "brand-reddit",
-              icon_color: "#f38ba8",
-            },
           ],
         },
         {
-          name: "Courses Learn",
+          name: "Homelab",
           links: [
             {
-              name: "GG",
-              url: "https://ggapp.io/pivoshenko",
-              icon: "device-gamepad",
+              name: "LOADING",
+              url: "",
+              icon: "brand-telegram",
               icon_color: "#a6e3a1",
             },
-            {
-              name: "steam",
-              url: "https://store.steampowered.com",
-              icon: "brand-steam",
-              icon_color: "#fab387",
-            },
-            {
-              name: "epicgames",
-              url: "https://store.epicgames.com",
-              icon: "brand-fortnite",
-              icon_color: "#f38ba8",
-            },
-            {
-              name: "nintendo",
-              url: "https://store.nintendo.co.uk",
-              icon: "device-nintendo",
-              icon_color: "#89b4fa",
-            },
-          ],
-        },
-        {
-          name: "proximamente",
-          links: [
-            {
-              name: "anilist",
-              url: "https://anilist.co/home",
-              icon: "brand-funimation",
-              icon_color: "#a6e3a1",
-            },
-            {
-              name: "youtube",
-              url: "https://www.youtube.com",
-              icon: "brand-youtube",
-              icon_color: "#fab387",
-            },
-            {
-              name: "patreon",
-              url: "https://www.patreon.com",
-              icon: "brand-patreon",
-              icon_color: "#f38ba8",
-            },
-            {
-              name: "kyivstar",
-              url: "https://tv.kyivstar.ua",
-              icon: "star-filled",
-              icon_color: "#89b4fa",
-            },
+
           ],
         },
       ],
