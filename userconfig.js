@@ -114,6 +114,12 @@ const default_config = {
               icon: "table",
               icon_color: "#f38ba8",
             },
+            {
+              name: "FarmaPocket",
+              url: "https://farmapocket.vercel.app/",
+              icon: "table",
+              icon_color: "#f38ba8",
+            },
           ],
         },
         {
