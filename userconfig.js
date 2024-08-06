@@ -109,6 +109,12 @@ const default_config = {
               icon_color: "#fab387",
             },
             {
+              name: "Conected papers",
+              url: "https://www.connectedpapers.com/",
+              icon: "calendar-filled",
+              icon_color: "#fab387",
+            },
+            {
               name: "Pudmed",
               url: "https://pubmed.ncbi.nlm.nih.gov/",
               icon: "table",
